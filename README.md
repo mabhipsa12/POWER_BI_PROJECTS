@@ -47,12 +47,19 @@ The dataset (in CSV format) was imported into Power BI Desktop.
 New measures were created for:
 
 - Total Sales = SUM(Sales)
+  
 ![Image](https://github.com/user-attachments/assets/6d039860-4e02-4928-833d-705359500db7)
+
 - Average Sales = AVERAGE(Sales)
+  
 ![Image](https://github.com/user-attachments/assets/3790e6c0-d2d6-465b-9ed7-db6dfe5f371e)
+
 - Number of Items = DISTINCTCOUNT(Item_Identifier)
+  
 ![Image](https://github.com/user-attachments/assets/ed868078-b9c0-4de8-af8c-8d6c216d81a0)
+
 - Average Rating = AVERAGE(Rating)
+  
 ![Image](https://github.com/user-attachments/assets/d721d6df-61e5-45a9-8aab-0abe015152d8)
     
 #These were used in card visuals and charts for KPI representation.
@@ -64,8 +71,6 @@ A clean and user-friendly single-page layout was adopted with color coding by ca
 The following visuals were developed:
 
 - Donut Chart – Total Sales by Fat Content
-
-
 
 ➤ Shows contribution of fat content types to overall sales.
 
